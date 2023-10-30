@@ -38,7 +38,7 @@ const Navbar = () => {
               {navOptions}
             </ul>
           </div>
-          <Link to="/" className="mr-3 ml-5">
+            <Link to="/" className="mr-3 ml-5">
               <img className='lg:w-15 h-14 rounded-lg' src={logo} alt="" />
             </Link>
             <h3 className='font-bold normal-case text-xl'>Grand Sikhder</h3>
