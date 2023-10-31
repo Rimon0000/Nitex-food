@@ -14,7 +14,7 @@ const Banner = () => {
                    <h2 className="text-5xl font-bold">Flavors that Make You Feel at Home</h2>
                    <p className='font-semibold'>From the moment you step through our doors, you'll be transported to a world of delectable flavors and warm hospitality.</p>
                   <div>
-                  <button className="btn btn-primary mr-5">Discover More</button>
+                  <button className="btn btn-outline-primary mr-5">Explore More</button>
                   </div>
                   </div>
                 </div>

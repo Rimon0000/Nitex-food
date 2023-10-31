@@ -6,7 +6,7 @@ import about3 from "../../assets/about/img3.jpg"
 const About = () => {
     return (    
         <div className='mx-auto text-center px-14 mt-5'>
-            <h2 className='text-center text-4xl font-bold pt-5 px-5 pb-8'>About Us</h2>
+            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 w-1/5 mx-auto'>About Us</h2>
             <div className='lg:flex md:flex gap-14'>
                 <div className='rounded w-3/5' data-aos="fade-right" data-aos-duration="2000">
                     <img className='lg:w-3/5 md:w-3/5 relative rounded lg:left-36 md:left-36 mt-4' src={about3} alt="" />

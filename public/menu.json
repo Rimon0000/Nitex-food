@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Biryani",
+        "photo": "https://i.ibb.co/VVYdhP1/umair-ali-asad-u8o-FTbtc-TQM-unsplash.jpg",
+        "description": "Biryani is a classic Bangladeshi dish featuring fragrant rice cooked with marinated meat, spices, and aromatic herbs. Served with a side of cucumber salad and raita, it's a flavorful and aromatic delight.",
+        "price": 750
+    },
+    {
+        "id": 2,
+        "name": "Hilsha Curry",
+        "photo": "https://i.ibb.co/DLF8642/img3.jpg",
+        "description": "Hilsha Curry is a traditional Bangladeshi fish curry made with tender pieces of Hilsha fish, cooked in a rich, spicy gravy with mustard oil and served with steamed rice. It's a mouthwatering blend of flavors and textures.",
+        "price": 240
+    },
+    {
+        "id": 3,
+        "name": "Khichuri",
+        "photo": "https://i.ibb.co/K5smqvp/img5.jpg",
+        "description": "Khichuri is a comforting and hearty Bangladeshi dish made with rice and lentils, often mixed with vegetables and spices. It's best enjoyed with a side of fried eggplant and a dollop of ghee.",
+        "price": 350
+    },
+    {
+        "id": 4,
+        "name": "Kacchi Biriyani",
+        "photo": "https://i.ibb.co/z47hjZZ/img4.jpg",
+        "description": "Kacchi Biriyani is a Bangladeshi version of the classic dish made with marinated raw meat and aromatic spices, layered with basmati rice and slow-cooked to perfection. The meat is tender, flavorful, and slightly spicy, making it a favorite at Bangladeshi gatherings.",
+        "price": 746
+    },
+    {
+        "id": 5,
+        "name": "Chingri Malai Curry",
+        "photo": "https://i.ibb.co/zHpn1JK/img1.jpg",
+        "description": "Chingri Malai Curry is a creamy and flavorful Bangladeshi prawn curry cooked with coconut milk, spices, and served with steamed rice. It's known for its mild yet delicious taste.",
+        "price": 650
+    },
+    {
+        "id": 6,
+        "name": "Chicken Chap",
+        "photo": "https://i.ibb.co/ctt7LHH/1.jpg",
+        "description": "Chicken Chap is a delectable Bangladeshi dish made with tender pieces of chicken cooked with aromatic spices and herbs. It's a flavorful and satisfying delicacy.",
+        "price": 170
+    },
+    {
+        "id": 7,
+        "name": "Mejban",
+        "photo": "https://i.ibb.co/FwY8Ff8/6f67828904297d649b3aa5162663df46.jpg",
+        "description": "Mejban is a traditional Bangladeshi dish where meat, often beef, is cooked and shared with the community. It's a symbol of hospitality and unity in Bangladesh.",
+        "price": 400
+    },
+    {
+        "id": 8,
+        "name": "Fizza",
+        "photo": "https://i.ibb.co/yNQ9ZPn/img7.jpg",
+        "description": "Fizza is a delightful Bangladeshi dessert made with a sweet, crispy crust filled with flavored cream and topped with a variety of fruits and nuts. It's a popular choice for those with a sweet tooth.",
+        "price": 640
+    }
+]
