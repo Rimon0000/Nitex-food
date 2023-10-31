@@ -15,7 +15,7 @@ const Navbar = () => {
             <Link className="font-semibold" to='/'>Home</Link>
           </li>
           <li>
-          <Link onClick={() => handleMenuItemClick('about')} className="font-semibold" to='#About'>About</Link>
+          <Link onClick={() => handleMenuItemClick('about')} className="font-semibold" to='#about'>About</Link>
           </li>
           <li>
             <Link onClick={() => handleMenuItemClick('menus')} className="font-semibold" to='#Menus'>Menus</Link>

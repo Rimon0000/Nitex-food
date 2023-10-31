@@ -5,13 +5,13 @@ import about3 from "../../assets/about/img3.jpg"
 
 const About = () => {
     return (    
-        <div className='mx-auto text-center px-14 mt-5'>
-            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 w-1/5 mx-auto'>About Us</h2>
+        <div id="about" className='mx-auto text-center px-14 mt-5'>
+            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 lg:w-1/5 md:w-1/5 mx-auto'>About Us</h2>
             <div className='lg:flex md:flex gap-14'>
-                <div className='rounded w-3/5' data-aos="fade-right" data-aos-duration="2000">
+                <div className='rounded lg:w-3/5 md:w-3/5' data-aos="fade-right" data-aos-duration="2000">
                     <img className='lg:w-3/5 md:w-3/5 relative rounded lg:left-36 md:left-36 mt-4' src={about3} alt="" />
-                    <div className='lg:flex md:flex gap-5 relative lg:bottom-20 md:bottom-20'>
-                        <img className='lg:w-2/4 md:w-2/4 rounded' src={about1} alt="" />
+                    <div className='lg:flex md:flex gap-5 relative lg:bottom-20 md:bottom-20 mt-2'>
+                        <img className='lg:w-2/4 md:w-2/4 rounded mb-2' src={about1} alt="" />
                         <img className='lg:w-2/4 md:w-2/4 rounded' src={about2} alt="" />
                     </div>
                 </div>

@@ -10,8 +10,8 @@ import img8 from "../../assets/partners/img8.jpg"
 
 const Partners = () => {
     return (
-        <div className="my-10">
-            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 w-1/4 mx-auto'>Our Partners</h2>
+        <div className="my-10 px-2">
+            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8 pb-2  border-b-2 border-gray-500 lg:w-2/5 md:w-2/5 mx-auto'>Our Partners</h2>
             <div className='d-flex'>
               <Marquee className='text-danger' speed={100}>
                 <div className="card w-80 bg-base-100 shadow-xl">

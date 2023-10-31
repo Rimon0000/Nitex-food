@@ -20,8 +20,8 @@ const Menu = () => {
 }
 
     return (
-        <div className="px-20 my-5">
-            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 w-2/5 mx-auto'>Our Menu's</h2>
+        <div id="menus" className="px-20 my-5">
+            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 lg:w-2/5 md:w-2/5 mx-auto'>Our Menu's</h2>
             <div className='mt-5'>
                 {
                     menus?.map(menu => <SingleMenu

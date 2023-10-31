@@ -7,8 +7,8 @@ import "./ClientReview.css"
 
 const ClientReview = () => {
     return (
-        <div className="my-10">
-            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 w-1/4 mx-auto'>client Review</h2>
+        <div className="my-10 px-5">
+            <h2 className='text-center text-4xl font-bold pt-5 px-5 mb-8  border-b-2 border-gray-500 lg:w-1/4 md:w-1/4 mx-auto'>client Review</h2>
             <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-10 px-5 pt-5'>
                 <div className='mt-3' data-aos="fade-right" data-aos-duration="2000">
                     <div className='flex items-center gap-5'>
