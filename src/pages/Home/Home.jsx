@@ -1,6 +1,7 @@
 import About from "../About/About";
 import Banner from "../Banner/Banner";
 import Menu from "../Menu/Menu";
+import PopularMenu from "../PopularMenu/PopularMenu";
 
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
             <Banner></Banner>
             <About></About>
             <Menu></Menu>
+            <PopularMenu></PopularMenu>
             
         </div>
     );

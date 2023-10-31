@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Tiramisu",
+        "photo": "https://i.ibb.co/MMSVP8G/ella-olsson-u-G1jwfp-CRhg-unsplash.jpg",
+        "rating": 4.6,
+        "likes": 3150
+    },
+    {
+        "id": 2,
+        "title": "Chocolate Cake",
+        "photo": "https://i.ibb.co/LP21L0M/mink-mingle-LGNx-Qz-Yme-Uk-unsplash.jpg",
+        "rating": 4.9,
+        "likes": 4800
+    },
+    {
+        "id": 3,
+        "title": "Greek Salad",
+        "photo": "https://i.ibb.co/cLX8DxB/eiliv-aceron-m-W0-LIBBHNd-E-unsplash.jpg",
+        "rating": 4.3,
+        "likes": 2100
+    },
+    {
+        "id": 4,
+        "title": "Caesar Salad",
+        "photo": "https://i.ibb.co/B65P6PY/christine-isakzhanova-0-Ig-N3-Tb-E4r-M-unsplash.jpg",
+        "rating": 4.5,
+        "likes": 2750
+    },
+    {
+        "id": 5,
+        "title": "Grilled Steak",
+        "photo": "https://i.ibb.co/G7ZQpT4/img1.jpg",
+        "rating": 4.8,
+        "likes": 3650
+    },
+    {
+        "id": 6,
+        "title": "Honey Glazed Salmon",
+        "photo": "https://i.ibb.co/D5t7JGF/img2.jpg",
+        "rating": 4.7,
+        "likes": 3120
+    }
+]
