@@ -17,7 +17,7 @@ const ClientReview = () => {
                             <p>"I can't say enough good things about this toy store! The selection is amazing, 
                                 and the staff is incredibly helpful. I found the perfect gift for my niece's birthday, 
                                 and I'll definitely be back for more shopping."</p>
-                            <p className="mt-1">Adrian || 27-9-2023</p>
+                            <p className="mt-1">-- Adrian || 27-9-2023</p>
                         </div>
                     </div>
                     <div className='flex items-center gap-5 my-4'>
@@ -27,7 +27,7 @@ const ClientReview = () => {
                                 We tried their signature cocktails, and they were good, but not mind-blowing. 
                                 A slight improvement in the cocktail department would make the overall dining 
                                 experience even better."</p>
-                            <p className="mt-1">James Taylor || 17-05-2023</p>
+                            <p className="mt-1">-- James Taylor || 17-05-2023</p>
                         </div>
                     </div>
                     <div className='flex items-center gap-5'>
@@ -36,7 +36,7 @@ const ClientReview = () => {
                             <p>"The service was generally attentive and friendly. Our server was knowledgeable 
                                 about the menu and offered excellent recommendations. The only minor hiccup was a slight 
                                 delay in getting our appetizers."</p>
-                            <p className="mt-1">Liam Martin || 11-06-2023</p>
+                            <p className="mt-1">-- Liam Martin || 11-06-2023</p>
                         </div>
                     </div>
                     <div className='flex items-center gap-5'>
@@ -44,7 +44,7 @@ const ClientReview = () => {
                         <div className='text-sm font-semibold'>
                             <p>"Tasty Bites boasts a warm and inviting atmosphere. The decor is stylish and modern, 
                                 with a subtle touch of elegance. The dimmed lighting sets the perfect mood for a cozy meal."</p>
-                            <p className="mt-1">Noah Clark || 20-7-2023</p>
+                            <p className="mt-1">-- Noah Clark || 20-7-2023</p>
                         </div>
                     </div>
                 </div>
