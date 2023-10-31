@@ -15,13 +15,13 @@ const Navbar = () => {
             <Link className="font-semibold" to='/'>Home</Link>
           </li>
           <li>
-          <Link onClick={() => handleMenuItemClick('skills')} className="font-semibold" to='#Skills'>Skills</Link>
+          <Link onClick={() => handleMenuItemClick('about')} className="font-semibold" to='#About'>About</Link>
           </li>
           <li>
-            <Link onClick={() => handleMenuItemClick('projects')} className="font-semibold" to='#Projects'>Projects</Link>
+            <Link onClick={() => handleMenuItemClick('menus')} className="font-semibold" to='#Menus'>Menus</Link>
           </li>
           <li>
-            <Link onClick={() => handleMenuItemClick('contact')} className="font-semibold" to='#Contact'>Contact</Link>
+            <Link onClick={() => handleMenuItemClick('popular')} className="font-semibold" to='#Popular Menus'>Popular Menus</Link>
           </li>
         </>
       );
